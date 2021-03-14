@@ -38,7 +38,7 @@ int main(){
     // result = 0;
   }
 
-  printf("%lld\n", result / 10);
+  printf("your internet speed is: %lld b/sec\n", result / 10);
 
   return 0;
 }
